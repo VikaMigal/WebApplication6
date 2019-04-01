@@ -1,0 +1,14 @@
+D:\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.2\WebApplication6.deps.json
+D:\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.2\WebApplication6.runtimeconfig.json
+D:\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.2\WebApplication6.runtimeconfig.dev.json
+D:\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.2\WebApplication6.dll
+D:\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.2\WebApplication6.pdb
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.csprojAssemblyReference.cache
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.csproj.CoreCompileInputs.cache
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.RazorAssemblyInfo.cache
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.RazorAssemblyInfo.cs
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.AssemblyInfoInputs.cache
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.AssemblyInfo.cs
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.dll
+D:\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.2\WebApplication6.pdb
